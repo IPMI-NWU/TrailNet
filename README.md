@@ -24,7 +24,8 @@ The performance of our method is expressed as the mean and standard deviation of
 | :-: | :-: | :-: |
 | Ours | 81.25±0.30 | 81.85±0.39 |
 
-The weight will be released after the paper is accepted.
+The pretrained model weights are publicly available at the following link:  
+[https://pan.baidu.com/s/1UnzDEeOZYtQ89_18eWsohw?pwd=7777](https://pan.baidu.com/s/1UnzDEeOZYtQ89_18eWsohw?pwd=7777)
 
 
 ## Public Datasets
